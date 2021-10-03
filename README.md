@@ -5,3 +5,6 @@ The technologies used are:
 - SQLite
 - Python
 - Jupyter notebook
+
+First Normal Form
+![1NF](https://user-images.githubusercontent.com/36913316/135768799-465702d1-a75e-48d6-ba03-7ee43f88101f.png)
