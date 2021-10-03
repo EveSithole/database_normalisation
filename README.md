@@ -11,3 +11,6 @@ First Normal Form
 
 Second Normal Form
 ![2NF](https://user-images.githubusercontent.com/36913316/135768878-adf0bde9-8547-4f2c-94f8-c0c5681cfc67.png)
+
+Third Normal Form
+![3NF](https://user-images.githubusercontent.com/36913316/135768942-4bb5ad19-095d-47af-8919-c65aba2398fe.png)
