@@ -8,3 +8,6 @@ The technologies used are:
 
 First Normal Form
 ![1NF](https://user-images.githubusercontent.com/36913316/135768799-465702d1-a75e-48d6-ba03-7ee43f88101f.png)
+
+Second Normal Form
+![2NF](https://user-images.githubusercontent.com/36913316/135768878-adf0bde9-8547-4f2c-94f8-c0c5681cfc67.png)
